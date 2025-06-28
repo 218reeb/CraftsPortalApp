@@ -1,0 +1,6 @@
+# Placeholder file for images directory
+# Add your app images here:
+# - logo.png
+# - default_profile.png
+# - placeholder_project.png
+# - etc. 
